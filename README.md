@@ -1,4 +1,4 @@
-# Practical IT Security Practical Example
+# Praktische IT-Sicherheit
 
 This repository contains a practical example for the topic "Authentisierungsverfahren bei Webservern". It was created as part of the module "Praktische IT-Sicherheit" at the University of Applied Sciences in Cologne.
 
